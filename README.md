@@ -4,7 +4,7 @@
 
 Press 5 to start AHK - Press 7 to pause/play AHK - Press 8 to close
 
-### /maze+casino.ahk (Conquer)
+### /maze+casino.ahk
 
 Press 5 to start AHK - Press 7 to pause/play AHK - Press 8 to close
 
